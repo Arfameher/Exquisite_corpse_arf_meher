@@ -19,6 +19,6 @@ Git Collage exercise
 
 
 **Must visit Places**
--Belfry
--Markt
--Historium
+- Belfry
+- Markt
+- Historium
