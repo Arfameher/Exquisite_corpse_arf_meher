@@ -5,14 +5,14 @@
 
 **A walk along the historical sights**
 
-*Belfry of Bruges
-*Groeninge Museum
-*Basilica of the Holy Blood
+* Belfry of Bruges
+* Groeninge Museum
+* Basilica of the Holy Blood
 
 **Cuisine**
 
-*Lebanese Mix platter
-*Frittes
-*the famous Belgian Waffle
+* Lebanese Mix platter
+* Frites
+* The famous Belgian Waffle
 
 Git Collage exercise
