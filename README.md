@@ -16,3 +16,9 @@
 * The famous Belgian Waffle
 
 Git Collage exercise
+
+
+**Must visit Places**
+-Belfry
+-Markt
+-Historium
