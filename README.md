@@ -20,9 +20,12 @@
 ![The monuments men](https://images.huffingtonpost.com/2014-02-05-momumentmen.jpg)
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #### "Without Fault"
 
 =======
+=======
+>>>>>>> 61d7ec2d8fa048df511cb33c5f421bea59444788
 
 
 ### Market of Brugge
@@ -34,5 +37,6 @@
 
 Git Collage exercise
 >>>>>>> development
+
 
 
